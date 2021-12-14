@@ -1,0 +1,39 @@
+.section{
+    width: 100%;
+    height: 100vh;
+    background-color: #32C1CD;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: start;
+    color: #fff;
+    font-size: 1.5rem;
+    margin-left: 30px;
+}
+.content{
+    width: 100%;
+    height: 85vh;
+    color: #fff;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    background-color: #34BE82;
+    width: 100%;
+    height: 100vh;
+}
+.third{
+    background-color: #F9975D;
+    width: 100%;
+    height: 100vh;
+}
+.four{
+    background-color: #FBD148;
+    width: 100%;
+    height: 100vh;
+
+}
